@@ -1,9 +1,13 @@
 {
   "jupyter-config-data": {
-    "appName": "JupyterLite",
-    "appUrl": "./lab",
+    "appName": "Pandas REPL",
+    "appUrl": "./repl",
     "appVersion": "0.1.0-beta.9",
     "baseUrl": "./",
+    "disabledExtensions": [
+      "@jupyter-widgets/jupyterlab-manager",
+      "jupyterlab-plotly"
+    ],
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
