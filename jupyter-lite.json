@@ -4,9 +4,11 @@
       "appName": "Pandas REPL",
       "appUrl": "./repl",
       "disabledExtensions": [
-        "@jupyter-widgets/jupyterlab-manager",
-        "jupyterlab-plotly"
-      ]
+        "@jupyter-widgets/jupyterlab-manager"
+      ],
+      "enableMemoryStorage": true,
+      "settingsStorageDrivers": ["memoryStorageDriver"],
+      "contentsStorageDrivers": ["memoryStorageDriver"]
     }
   }
   
