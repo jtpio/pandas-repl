@@ -4,10 +4,13 @@
     "appUrl": "./repl",
     "appVersion": "0.1.0-beta.9",
     "baseUrl": "./",
-    "disabledExtensions": [
-      "@jupyter-widgets/jupyterlab-manager",
-      "jupyterlab-plotly"
+    "contentsStorageDrivers": [
+      "memoryStorageDriver"
     ],
+    "disabledExtensions": [
+      "@jupyter-widgets/jupyterlab-manager"
+    ],
+    "enableMemoryStorage": true,
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -295,7 +298,10 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
-    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
+    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
+    "settingsStorageDrivers": [
+      "memoryStorageDriver"
+    ]
   },
   "jupyter-lite-schema-version": 0
 }
