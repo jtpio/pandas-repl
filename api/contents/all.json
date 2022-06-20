@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-20T14:49:44.467620Z",
+      "created": "2022-06-20T14:50:13.486615Z",
       "format": null,
-      "last_modified": "2022-06-20T14:49:25.151379Z",
+      "last_modified": "2022-06-20T14:49:48.890733Z",
       "mimetype": "text/csv",
       "name": "iris.csv",
       "path": "iris.csv",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-20T14:49:44.467620Z",
+      "created": "2022-06-20T14:50:13.482615Z",
       "format": null,
-      "last_modified": "2022-06-20T14:49:42.903606Z",
+      "last_modified": "2022-06-20T14:50:11.202613Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-20T14:49:44.467620Z",
+  "created": "2022-06-20T14:50:13.486615Z",
   "format": "json",
-  "last_modified": "2022-06-20T14:49:44.467620Z",
+  "last_modified": "2022-06-20T14:50:13.486615Z",
   "mimetype": null,
   "name": "",
   "path": "",
